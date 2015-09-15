@@ -7,3 +7,6 @@
 [submodule "hafen-layer-util"]
 	path = hafen-layer-util
 	url = https://github.com/TheKrush/hafen-layer-util.git
+[submodule "hafen-client"]
+	path = hafen-client
+	url = https://github.com/TheKrush/hafen-client.git
