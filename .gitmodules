@@ -1,0 +1,3 @@
+[submodule "hafen-minion"]
+	path = hafen-minion
+	url = https://github.com/TheKrush/hafen-minion.git
