@@ -1,3 +1,6 @@
 [submodule "hafen-minion"]
 	path = hafen-minion
 	url = https://github.com/TheKrush/hafen-minion.git
+[submodule "hafen-map-combiner"]
+	path = hafen-map-combiner
+	url = https://github.com/TheKrush/hafen-map-combiner.git
